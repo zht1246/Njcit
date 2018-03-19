@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\zhihuribao\app\app.iml" filepath="E:\zhihuribao\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submit/submit.iml" filepath="$PROJECT_DIR$/submit/submit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://E:\zhihuribao\test\test.iml" filepath="E:\zhihuribao\test\test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhihuribao.iml" filepath="$PROJECT_DIR$/zhihuribao.iml" />
+    </modules>
+  </component>
+</project>

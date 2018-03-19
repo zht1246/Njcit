@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4b5dff</color>
+    <color name="colorPrimaryDark">#4b5dff</color>
+    <color name="colorAccent">#d16b8e</color>
+    <color name="colorTitle">#444444</color>
+    <color name="toolbackground">#4e6874</color>
+    <color name="qian_blue">#81c2df</color>
+    <color name="soft_blue">#b3e5fc</color>
+
+    <color name="colorStroke">#E0E0E0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorContent">#633c3c</color>
+    <color name="black">#4aa5de</color>
+
+    <color name="maps">#4aa5de</color>
+
+    <!--烟白色 -->
+    <color name="whiteSmoke">#f5f5f5</color>
+
+    <color name="inputHint">#bf2727</color>
+    <color name="colorTime">#ba2828</color>
+
+    <color name="disable">#E0E0E0</color>
+    <color name="splashBackground">#404f69</color>
+</resources>

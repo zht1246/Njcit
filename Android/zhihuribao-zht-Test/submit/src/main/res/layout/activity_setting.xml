@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.Asus.shixun.ui.activity.SettingActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/header"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_wifi"
+            style="@style/SettingsItem"
+            android:layout_marginTop="@dimen/view_edge_3"
+            android:background="@drawable/bg_settings_top"
+            android:text="@string/set_wifi"/>
+
+        <TextView
+            android:id="@+id/tv_bluetooth"
+            style="@style/SettingsItem"
+            android:background="@drawable/bg_settings_middle"
+            android:text="@string/set_bluetooth"/>
+
+        <TextView
+            android:id="@+id/tv_net"
+            style="@style/SettingsItem"
+            android:background="@drawable/bg_settings_bottom"
+            android:text="@string/set_net"/>
+
+        <TextView
+            android:id="@+id/tv_voice"
+            style="@style/SettingsItem"
+            android:layout_marginTop="@dimen/view_edge_15"
+            android:background="@drawable/bg_settings_top"
+            android:text="@string/set_voice"/>
+
+        <TextView
+            android:id="@+id/tv_cunchu"
+            style="@style/SettingsItem"
+            android:background="@drawable/bg_settings_bottom"
+            android:text="@string/set_cunchu"/>
+        <TextView
+            android:id="@+id/tv_kaifa"
+            style="@style/SettingsItem"
+            android:background="@drawable/bg_settings_bottom"
+            android:text="@string/set_kaifa"/>
+
+        <TextView
+            android:id="@+id/tv_tongbu"
+            style="@style/SettingsItem"
+            android:layout_marginTop="@dimen/view_edge_15"
+            android:background="@drawable/bg_settings_top"
+            android:text="@string/set_tongbu"/>
+
+        <TextView
+            android:id="@+id/tv_time"
+            style="@style/SettingsItem"
+            android:background="@drawable/bg_settings_bottom"
+            android:text="@string/set_time"/>
+
+
+        <TextView
+            android:id="@+id/tv_set"
+            style="@style/SettingsItem"
+            android:background="@drawable/bg_settings_bottom"
+            android:text="@string/set_set"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

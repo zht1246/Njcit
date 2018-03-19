@@ -1,0 +1,28 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.Asus.shixun.ui.activity.SplashActivity">
+
+    <ImageView
+        android:id="@+id/iv_welcome_bg"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg"/>
+
+
+
+    <TextView
+        android:text="6666"
+        android:id="@+id/tv_welcome_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="bottom|center_horizontal" />
+
+</FrameLayout>

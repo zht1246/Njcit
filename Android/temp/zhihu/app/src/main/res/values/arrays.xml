@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="titles">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>Win10</item>
+        <item>Mac</item>
+        <item>Ubuntu</item>
+        <item>Centos</item>
+        <item>Python</item>
+        <item>Java</item>
+    </string-array>
+</resources>

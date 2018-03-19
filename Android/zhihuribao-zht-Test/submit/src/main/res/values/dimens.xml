@@ -1,0 +1,33 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="view_edge_3">3dp</dimen>
+    <dimen name="view_edge_5">5dp</dimen>
+    <dimen name="view_edge_10">10dp</dimen>
+    <dimen name="view_edge_12">12dp</dimen>
+    <dimen name="view_edge_14">14dp</dimen>
+    <dimen name="view_edge_15">15dp</dimen>
+
+    <dimen name="text_size_26">15sp</dimen>
+    <dimen name="text_size_28">16sp</dimen>
+
+
+    <!-- 背景圆角半径 -->
+    <dimen name="bg_corner_radius">5dp</dimen>
+    <dimen name="bg_corner_radius_middle">7dp</dimen>
+    <dimen name="bg_corner_radius_large">15dp</dimen>
+
+
+    <!-- 输入内容 padding -->
+    <dimen name="input_padding_left">10dp</dimen>
+    <dimen name="input_padding_right">10dp</dimen>
+    <dimen name="input_padding_top">12dp</dimen>
+    <dimen name="input_padding_bottom">13dp</dimen>
+
+    <integer name="max_password_length">16</integer>
+</resources>
